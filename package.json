@@ -1,6 +1,7 @@
 {
-  "homepage": "https://mitesh21jun.github.io/firegram-gallery",
+  "homepage": "https://mitesh21jun.github.io/firegram-gallery/",
   "name": "firegram",
+  "public": "build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
